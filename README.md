@@ -1,9 +1,29 @@
 # Go-Contact-Sync-Mod-PortableApps
-An implementation within the PortableApps folder structure of the Go Contact Sync Mod app.
+This project is an implementation of the Go Contact Sync Mod app within the PortableApps folder structure.  A Launcher and installer is created, so GoContactSyncMod can be directly installed within your PortableApps APP / Menu.
+
+The latest version of the PortableApps ".paf" installer can be directly downloaded from the releases.
+
+In case you want to create your own PortableApps installer, the procedure to follow is detailed below.
+
+GoContactSyncMod - Correct file download:
+
+Go to 
+
+https://sourceforge.net/projects/googlesyncmod/files/Releases/
+
+and get into the release folder you want to download, in this case:
+
+https://sourceforge.net/projects/googlesyncmod/files/Releases/4.1.33/
+
+Download the debug zip verion:
+
+GCSM-4.1.33-(Debug).zip file
 
 PortableApps Folder:
 
+Save the contents of the GCSM-4.1.33-(Debug).zip file
 
+GoContactSyncModPortable\App\GoContactSyncMod\
 
 PortableApps Launcher - Compilation:
 
