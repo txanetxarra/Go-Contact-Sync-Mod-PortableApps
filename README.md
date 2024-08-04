@@ -1,6 +1,12 @@
 # Go-Contact-Sync-Mod-PortableApps
 An implementation within the PortableApps folder structure of the Go Contact Sync Mod app.
 
+PortableApps Folder:
+
+
+
+PortableApps Launcher - Compilation:
+
 ![20240719-142337](https://github.com/user-attachments/assets/36af7d4f-a11b-4061-b243-13c277712407)
 
 ![20240719-142338](https://github.com/user-attachments/assets/50d099d4-97a0-4a2a-9fca-4b3f2beaaa4f)
@@ -12,6 +18,8 @@ An implementation within the PortableApps folder structure of the Go Contact Syn
 ![20240719-142652](https://github.com/user-attachments/assets/6601d5ee-a1fb-409e-a36c-6b0240281775)
 
 ![20240719-142712](https://github.com/user-attachments/assets/b37d16cc-a4b5-481c-9ae6-66acb6c5b935)
+
+PortableApps Installer - Compilation:
 
 ![20240719-143050](https://github.com/user-attachments/assets/f7aabc53-a2bf-4322-a599-b3eb4236110f)
 
