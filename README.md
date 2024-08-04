@@ -5,27 +5,27 @@ The latest version of the PortableApps ".paf" installer can be directly download
 
 In case you want to create your own PortableApps installer, the procedure to follow is detailed below.
 
-GoContactSyncMod - Correct file download:
+## 1. GoContactSyncMod - Correct file download:
 
 Go to 
 
-https://sourceforge.net/projects/googlesyncmod/files/Releases/
+- https://sourceforge.net/projects/googlesyncmod/files/Releases/
 
 and get into the release folder you want to download, in this case:
 
-https://sourceforge.net/projects/googlesyncmod/files/Releases/4.1.33/
+- https://sourceforge.net/projects/googlesyncmod/files/Releases/4.1.33/
 
 Download the debug zip verion:
 
-GCSM-4.1.33-(Debug).zip file
+- GCSM-4.1.33-(Debug).zip file
 
 PortableApps Folder:
 
 Save the contents of the GCSM-4.1.33-(Debug).zip file
 
-GoContactSyncModPortable\App\GoContactSyncMod\
+- GoContactSyncModPortable\App\GoContactSyncMod\
 
-PortableApps Launcher - Compilation:
+## 2. PortableApps Launcher - Compilation:
 
 ![20240719-142337](https://github.com/user-attachments/assets/36af7d4f-a11b-4061-b243-13c277712407)
 
@@ -39,7 +39,7 @@ PortableApps Launcher - Compilation:
 
 ![20240719-142712](https://github.com/user-attachments/assets/b37d16cc-a4b5-481c-9ae6-66acb6c5b935)
 
-PortableApps Installer - Compilation:
+## 3. PortableApps Installer - Compilation:
 
 ![20240719-143050](https://github.com/user-attachments/assets/f7aabc53-a2bf-4322-a599-b3eb4236110f)
 
